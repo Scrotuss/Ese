@@ -1,7 +1,7 @@
 #include <iostream>
+#include "headers/ese1.h"
 
 using namespace std;
-
 
 namespace kevin {
 extern int var1;
@@ -16,8 +16,7 @@ int var1;
 
 int var2;
 
-int main()
-{
-    cout << "Hello World dio cane porco merda SBOOOR!" << endl;
+int main(){
+    Ese1::ese1();
     return 0;
 }
