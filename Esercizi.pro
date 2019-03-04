@@ -4,7 +4,9 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
-        main.cpp
+    src/main.cpp \
+    src/ese1.cpp
 
 HEADERS += \
-    testheader.h
+    headers/testheader.h \
+    headers/ese1.h

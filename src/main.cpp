@@ -4,15 +4,14 @@ using namespace std;
 
 
 namespace kevin {
- extern int var1;
+extern int var1;
 }
-
 extern int var2;
 
 
 
 namespace kevin {
-    int var1;
+int var1;
 }
 
 int var2;
