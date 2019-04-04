@@ -5,8 +5,8 @@ CONFIG -= qt
 
 SOURCES += \
     src/main.cpp \
-    src/ese1.cpp
+    src/serie1.cpp
 
 HEADERS += \
     headers/testheader.h \
-    headers/ese1.h
+    headers/serie1.h
